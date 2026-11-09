@@ -4,4 +4,4 @@ WITH source AS (
 SELECT 
 *,
 current_timestamp() AS ingestion_timestamp
-FROM sourcee
+FROM source
